@@ -7,3 +7,4 @@ Testing JIRA connector
 
 DAS-4
 DAS-5
+SQREEN-1
